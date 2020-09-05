@@ -1,7 +1,7 @@
 {
     "background_color": "#ffffff",
     "theme_color": "#333333",
-    "name": "TODO",
+    "name": "Gamers Galaxy",
     "short_name": "gamers-galaxy",
     "display": "minimal-ui",
     "start_url": "/",

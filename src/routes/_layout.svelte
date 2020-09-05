@@ -1,5 +1,10 @@
 <script>
-  import Nav from "../components/Nav.svelte";
+  import BackToTop from "../components/BackToTop.svelte";
+  import Footer from "../components/Footer.svelte";
+  import Header from "../components/Header.svelte";
+  import NiceSelect from "../components/NiceSelect.svelte";
+  import OfcavasMenu from "../components/OfcavasMenu.svelte";
+  import Preloader from "../components/Preloader.svelte";
 
   export let segment;
 </script>
@@ -7,6 +12,13 @@
 <style>
 </style>
 
-<Nav {segment} />
+<Preloader />
+<div class="page_wrapper">
+  <Header {segment} />
+  <OfcavasMenu />
+  <slot />
 
-<slot />
+  <Footer />
+</div>
+<BackToTop />
+<NiceSelect />
