@@ -12,7 +12,7 @@
 <style>
 </style>
 
-<Preloader />
+<Preloader {segment} />
 <div class="page_wrapper">
   <Header {segment} />
   <OfcavasMenu />

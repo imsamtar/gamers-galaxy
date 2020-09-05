@@ -1,6 +1,8 @@
 <script>
   import { onMount } from "svelte";
 
+  export let segment;
+
   let preloader;
   let mounted;
   let hidden = false;
@@ -8,6 +10,13 @@
   onMount(function () {
     mounted = true;
   });
+
+  function reset() {
+    mounted = hidden = false;
+    mounted = true;
+  }
+
+  $: reset(segment);
 
   $: if (mounted && preloader) {
     setTimeout(function () {
@@ -23,6 +32,7 @@
   .proloader.hidden {
     opacity: 0;
     z-index: -1000;
+    transform: all 0ms;
   }
 </style>
 

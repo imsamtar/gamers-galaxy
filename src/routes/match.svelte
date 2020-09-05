@@ -2,6 +2,10 @@
   import SwiperSetup from "../components/Swipers/Setup.svelte";
 </script>
 
+<svelte:head>
+  <title>Gamers Galaxy</title>
+</svelte:head>
+
 <SwiperSetup />
 <div
   class="content_wrapper"
