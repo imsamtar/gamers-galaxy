@@ -6,5 +6,6 @@
 <svelte:head>
   <title>Gamers Galaxy</title>
 </svelte:head>
+
 <HomeHero />
 <UpcomingEvents />
