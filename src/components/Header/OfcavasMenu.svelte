@@ -1,4 +1,12 @@
-<div class="ofcavas-menu">
+<script>
+  export let current;
+
+  function close() {
+    current = false;
+  }
+</script>
+
+<div class="ofcavas-menu" class:current>
   <ul class="navbar-nav">
     <li class="nav-item">
       <a class="nav-link active" href="index.html">Home</a>
@@ -21,4 +29,4 @@
     <li><a href="/"><img src="assets/img/icon_5.png" alt="AnImage" /></a></li>
   </ul>
 </div>
-<div class="body_overlay" />
+<div class="body_overlay" class:open={current} on:click={close} />

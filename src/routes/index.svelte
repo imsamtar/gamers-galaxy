@@ -1,11 +1,15 @@
 <script>
-  import HomeHero from "../components/Home/Hero.svelte";
-  import UpcomingEvents from "../components/UpcomingEvents.svelte";
+  import HomeHero from "../components/Home/Hero/Hero.svelte";
+  import HomeNews from "../components/Home/News/News.svelte";
+  import UpcomingEvents from "../components/Home/UpcomingEvents/UpcomingEvents.svelte";
 </script>
 
 <svelte:head>
   <title>Gamers Galaxy</title>
 </svelte:head>
 
-<HomeHero />
+<div class="content_wrapper v1">
+  <HomeHero />
+  <HomeNews />
+</div>
 <UpcomingEvents />
