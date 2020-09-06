@@ -15,19 +15,19 @@
           <div class="player_box">
             <div class="player_box_left">
               <div class="player_img">
-                <img src="assets/img/img_40.png" alt="Image" />
+                <img src="assets/img/img_40.png" alt="AnImage" />
               </div>
               <div class="player_name">
                 <h4>Celrate</h4>
                 <p>Casper Anderson <span>22 years</span></p>
                 <ul>
                   <li>
-                    <a href="#"><a href="#"><img
+                    <a href="/"><a href="/"><img
                           src="assets/img/img_38.png"
-                          alt="Image" /></a></a>
+                          alt="AnImage" /></a></a>
                   </li>
                   <li>
-                    <a href="#"><img src="assets/img/img_41.png" alt="Image" /></a>
+                    <a href="/"><img src="assets/img/img_41.png" alt="AnImage" /></a>
                   </li>
                 </ul>
               </div>
@@ -35,9 +35,9 @@
             <div class="player_box_right">
               <p>Team : <span>Singularity</span></p>
               <ul>
-                <li><img src="assets/img/user_1.png" alt="Image" /></li>
-                <li><img src="assets/img/user_3.png" alt="Image" /></li>
-                <li><img src="assets/img/user_4.png" alt="Image" /></li>
+                <li><img src="assets/img/user_1.png" alt="AnImage" /></li>
+                <li><img src="assets/img/user_3.png" alt="AnImage" /></li>
+                <li><img src="assets/img/user_4.png" alt="AnImage" /></li>
               </ul>
             </div>
           </div>
@@ -63,17 +63,17 @@
               <li class="nav-item active">
                 <a class="active" data-toggle="tab" href="#user_1"><img
                     src="assets/img/user_1.png"
-                    alt="Image" /></a>
+                    alt="AnImage" /></a>
               </li>
               <li class="nav-item">
                 <a data-toggle="tab" href="#user_2"><img
                     src="assets/img/user_3.png"
-                    alt="Image" /></a>
+                    alt="AnImage" /></a>
               </li>
               <li class="nav-item">
                 <a data-toggle="tab" href="#user_3"><img
                     src="assets/img/user_4.png"
-                    alt="Image" /></a>
+                    alt="AnImage" /></a>
               </li>
             </ul>
             <div class="tab-content">
@@ -85,7 +85,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>1.01</span>
                     </div>
@@ -96,7 +96,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>0.65</span>
                     </div>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_30.png" alt="Image" />
+                        <img src="assets/img/img_30.png" alt="AnImage" />
                       </div>
                       <span>52.6%</span>
                     </div>
@@ -129,7 +129,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_30.png" alt="Image" />
+                        <img src="assets/img/img_30.png" alt="AnImage" />
                       </div>
                       <span>0.65</span>
                     </div>
@@ -140,7 +140,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>67.7%</span>
                     </div>
@@ -155,7 +155,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>1.01</span>
                     </div>
@@ -166,7 +166,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>0.65</span>
                     </div>
@@ -177,7 +177,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_30.png" alt="Image" />
+                        <img src="assets/img/img_30.png" alt="AnImage" />
                       </div>
                       <span>52.6%</span>
                     </div>
@@ -199,7 +199,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_30.png" alt="Image" />
+                        <img src="assets/img/img_30.png" alt="AnImage" />
                       </div>
                       <span>0.65</span>
                     </div>
@@ -210,7 +210,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>67.7%</span>
                     </div>
@@ -225,7 +225,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>1.01</span>
                     </div>
@@ -236,7 +236,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>0.65</span>
                     </div>
@@ -247,7 +247,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_30.png" alt="Image" />
+                        <img src="assets/img/img_30.png" alt="AnImage" />
                       </div>
                       <span>52.6%</span>
                     </div>
@@ -269,7 +269,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_30.png" alt="Image" />
+                        <img src="assets/img/img_30.png" alt="AnImage" />
                       </div>
                       <span>0.65</span>
                     </div>
@@ -280,7 +280,7 @@
                     </div>
                     <div class="info_item_right">
                       <div class="stat_bar">
-                        <img src="assets/img/img_29.png" alt="Image" />
+                        <img src="assets/img/img_29.png" alt="AnImage" />
                       </div>
                       <span>67.7%</span>
                     </div>
@@ -301,45 +301,45 @@
               <div class="info_item_left">
                 <p>Feb 2020 - Present</p>
               </div>
-              <a href="#" class="info_item_right">
+              <a href="/" class="info_item_right">
                 <div class="stat_bar">
-                  <img src="assets/img/img_20.png" alt="Image" />
+                  <img src="assets/img/img_20.png" alt="AnImage" />
                 </div>
                 <span>Singularity</span>
               </a>
               <div class="match_stats">
-                <a class="stat_btn" href="#">Stats</a>
+                <a class="stat_btn" href="/">Stats</a>
               </div>
             </div>
             <div class="info_item v2">
               <div class="info_item_left">
                 <p>Apr 2019 - Jun 2019</p>
               </div>
-              <a href="#" class="info_item_right">
+              <a href="/" class="info_item_right">
                 <div class="stat_bar">
-                  <img src="assets/img/img_31.png" alt="Image" />
+                  <img src="assets/img/img_31.png" alt="AnImage" />
                 </div>
                 <span>STEP</span>
               </a>
               <div class="match_stats">
-                <a class="stat_btn" href="#">Stats</a>
+                <a class="stat_btn" href="/">Stats</a>
               </div>
             </div>
             <div class="info_item v2">
               <div class="info_item_left">
                 <p>Headshots</p>
               </div>
-              <a href="#" class="info_item_right">
+              <a href="/" class="info_item_right">
                 <div class="stat_bar">
-                  <img src="assets/img/img_32.png" alt="Image" />
+                  <img src="assets/img/img_32.png" alt="AnImage" />
                 </div>
                 <span>Team123</span>
               </a>
               <div class="match_stats">
-                <a class="stat_btn" href="#">Stats</a>
+                <a class="stat_btn" href="/">Stats</a>
               </div>
             </div>
-            <div class="view_more_btn"><a href="#">View more</a></div>
+            <div class="view_more_btn"><a href="/">View more</a></div>
           </div>
           <div class="box_title mt-4">
             <div class="box_title_left">
@@ -401,25 +401,25 @@
                             <p>20/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_37.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_37.png" alt="AnImage" />
                             <span>PACT</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -427,25 +427,25 @@
                             <p>25/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_31.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_31.png" alt="AnImage" />
                             <span>STEP</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -453,25 +453,25 @@
                             <p>30/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_32.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_32.png" alt="AnImage" />
                             <span>Team123</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -479,25 +479,25 @@
                             <p>07/08/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_21.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_21.png" alt="AnImage" />
                             <span>Copenhegen Flames</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                       </div>
@@ -508,25 +508,25 @@
                             <p>20/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_37.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_37.png" alt="AnImage" />
                             <span>PACT</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -534,25 +534,25 @@
                             <p>25/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_31.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_31.png" alt="AnImage" />
                             <span>STEP</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -560,25 +560,25 @@
                             <p>30/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_32.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_32.png" alt="AnImage" />
                             <span>Team123</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -586,25 +586,25 @@
                             <p>07/08/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_21.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_21.png" alt="AnImage" />
                             <span>Copenhegen Flames</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                       </div>
@@ -621,25 +621,25 @@
                             <p>20/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_37.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_37.png" alt="AnImage" />
                             <span>PACT</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -647,25 +647,25 @@
                             <p>25/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_31.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_31.png" alt="AnImage" />
                             <span>STEP</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -673,25 +673,25 @@
                             <p>30/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_32.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_32.png" alt="AnImage" />
                             <span>Team123</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -699,25 +699,25 @@
                             <p>07/08/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_21.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_21.png" alt="AnImage" />
                             <span>Copenhegen Flames</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                       </div>
@@ -728,25 +728,25 @@
                             <p>20/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_37.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_37.png" alt="AnImage" />
                             <span>PACT</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -754,25 +754,25 @@
                             <p>25/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_31.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_31.png" alt="AnImage" />
                             <span>STEP</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -780,25 +780,25 @@
                             <p>30/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_32.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_32.png" alt="AnImage" />
                             <span>Team123</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -806,25 +806,25 @@
                             <p>07/08/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_21.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_21.png" alt="AnImage" />
                             <span>Copenhegen Flames</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                       </div>
@@ -841,25 +841,25 @@
                             <p>20/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_37.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_37.png" alt="AnImage" />
                             <span>PACT</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -867,25 +867,25 @@
                             <p>25/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_31.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_31.png" alt="AnImage" />
                             <span>STEP</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -893,25 +893,25 @@
                             <p>30/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_32.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_32.png" alt="AnImage" />
                             <span>Team123</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -919,25 +919,25 @@
                             <p>07/08/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_21.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_21.png" alt="AnImage" />
                             <span>Copenhegen Flames</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                       </div>
@@ -948,25 +948,25 @@
                             <p>20/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_37.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_37.png" alt="AnImage" />
                             <span>PACT</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -974,25 +974,25 @@
                             <p>25/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_31.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_31.png" alt="AnImage" />
                             <span>STEP</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -1000,25 +1000,25 @@
                             <p>30/07/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_32.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_32.png" alt="AnImage" />
                             <span>Team123</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                         <div class="user_match_stat_header v2">
@@ -1026,25 +1026,25 @@
                             <p>07/08/2020</p>
                           </div>
                           <div class="match_results_wrap">
-                            <a href="#">Singularity</a>
+                            <a href="/">Singularity</a>
                             <div class="team-logo">
-                              <a href="#"><img
+                              <a href="/"><img
                                   src="assets/img/img_20.png"
-                                  alt="Image" /></a>
+                                  alt="AnImage" /></a>
                             </div>
                             <div class="match_results v2">
                               <span>0</span> : <span>0</span>
                             </div>
                           </div>
-                          <a href="#" class="match_winner">
-                            <img src="assets/img/img_21.png" alt="Image" />
+                          <a href="/" class="match_winner">
+                            <img src="assets/img/img_21.png" alt="AnImage" />
                             <span>Copenhegen Flames</span>
                           </a>
                           <div class="match_stats">
-                            <a href="#"><a href="#"><img
+                            <a href="/"><a href="/"><img
                                   src="assets/img/img_38.png"
-                                  alt="Image" /></a></a>
-                            <a class="stat_btn" href="#">Stats</a>
+                                  alt="AnImage" /></a></a>
+                            <a class="stat_btn" href="/">Stats</a>
                           </div>
                         </div>
                       </div>
@@ -1075,17 +1075,17 @@
           <div class="page_num">
             <ul>
               <li>
-                <a href="#"><img src="assets/img/prev.png" alt="Image" /></a>
+                <a href="/"><img src="assets/img/prev.png" alt="AnImage" /></a>
               </li>
-              <li><a href="#">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a class="active" href="#">3</a></li>
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-              <li><a href="#">...</a></li>
-              <li><a href="#">10</a></li>
+              <li><a href="/">1</a></li>
+              <li><a href="/">2</a></li>
+              <li><a class="active" href="/">3</a></li>
+              <li><a href="/">4</a></li>
+              <li><a href="/">5</a></li>
+              <li><a href="/">...</a></li>
+              <li><a href="/">10</a></li>
               <li>
-                <a href="#"><img src="assets/img/next.png" alt="Image" /></a>
+                <a href="/"><img src="assets/img/next.png" alt="AnImage" /></a>
               </li>
             </ul>
           </div>
@@ -1107,24 +1107,24 @@
               <p>07/08/2020</p>
             </div>
             <div class="match_results_wrap">
-              <a href="#">Singularity</a>
+              <a href="/">Singularity</a>
               <div class="team-logo">
-                <a href="#"> <img src="assets/img/img_20.png" alt="Image" /></a>
+                <a href="/"> <img src="assets/img/img_20.png" alt="AnImage" /></a>
               </div>
               <div class="match_results"><span>2</span> : <span>1</span></div>
             </div>
-            <a href="#" class="match_winner">
-              <img src="assets/img/img_21.png" alt="Image" />
+            <a href="/" class="match_winner">
+              <img src="assets/img/img_21.png" alt="AnImage" />
               <span>Copenhagen Flames</span>
             </a>
             <div class="match_stats">
-              <a class="stat_btn" href="#">Stats</a>
+              <a class="stat_btn" href="/">Stats</a>
             </div>
           </div>
           <div class="user_match_statistics">
             <div class="user_img">
               <div class="user_avatar">
-                <img src="assets/img/img_28.png" alt="Image" />
+                <img src="assets/img/img_28.png" alt="AnImage" />
               </div>
               <div class="user_name">
                 <h6>Celrate</h6>
@@ -1135,7 +1135,7 @@
               <ul>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_22.png" alt="Image" />
+                    <img src="assets/img/img_22.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>10</p>
@@ -1143,7 +1143,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_23.png" alt="Image" />
+                    <img src="assets/img/img_23.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>8</p>
@@ -1151,7 +1151,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_24.png" alt="Image" />
+                    <img src="assets/img/img_24.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>1</p>
@@ -1159,7 +1159,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_25.png" alt="Image" />
+                    <img src="assets/img/img_25.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>3</p>
@@ -1167,7 +1167,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_26.png" alt="Image" />
+                    <img src="assets/img/img_26.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>2</p>
@@ -1175,7 +1175,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_27.png" alt="Image" />
+                    <img src="assets/img/img_27.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>0</p>
@@ -1231,24 +1231,24 @@
               <p>07/08/2020</p>
             </div>
             <div class="match_results_wrap">
-              <a href="#">Singularity</a>
+              <a href="/">Singularity</a>
               <div class="team-logo">
-                <a href="#"> <img src="assets/img/img_20.png" alt="Image" /></a>
+                <a href="/"> <img src="assets/img/img_20.png" alt="AnImage" /></a>
               </div>
               <div class="match_results"><span>2</span> : <span>1</span></div>
             </div>
-            <a href="#" class="match_winner">
-              <img src="assets/img/img_21.png" alt="Image" />
+            <a href="/" class="match_winner">
+              <img src="assets/img/img_21.png" alt="AnImage" />
               <span>Copenhagen Flames</span>
             </a>
             <div class="match_stats">
-              <a class="stat_btn" href="#">Stats</a>
+              <a class="stat_btn" href="/">Stats</a>
             </div>
           </div>
           <div class="user_match_statistics">
             <div class="user_img">
               <div class="user_avatar">
-                <img src="assets/img/img_28.png" alt="Image" />
+                <img src="assets/img/img_28.png" alt="AnImage" />
               </div>
               <div class="user_name">
                 <h6>Celrate</h6>
@@ -1259,7 +1259,7 @@
               <ul>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_22.png" alt="Image" />
+                    <img src="assets/img/img_22.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>10</p>
@@ -1267,7 +1267,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_23.png" alt="Image" />
+                    <img src="assets/img/img_23.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>8</p>
@@ -1275,7 +1275,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_24.png" alt="Image" />
+                    <img src="assets/img/img_24.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>1</p>
@@ -1283,7 +1283,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_25.png" alt="Image" />
+                    <img src="assets/img/img_25.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>3</p>
@@ -1291,7 +1291,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_26.png" alt="Image" />
+                    <img src="assets/img/img_26.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>2</p>
@@ -1299,7 +1299,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_27.png" alt="Image" />
+                    <img src="assets/img/img_27.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>0</p>
@@ -1355,24 +1355,24 @@
               <p>07/08/2020</p>
             </div>
             <div class="match_results_wrap">
-              <a href="#">Singularity</a>
+              <a href="/">Singularity</a>
               <div class="team-logo">
-                <a href="#"> <img src="assets/img/img_20.png" alt="Image" /></a>
+                <a href="/"> <img src="assets/img/img_20.png" alt="AnImage" /></a>
               </div>
               <div class="match_results"><span>2</span> : <span>1</span></div>
             </div>
-            <a href="#" class="match_winner">
-              <img src="assets/img/img_21.png" alt="Image" />
+            <a href="/" class="match_winner">
+              <img src="assets/img/img_21.png" alt="AnImage" />
               <span>Copenhagen Flames</span>
             </a>
             <div class="match_stats">
-              <a class="stat_btn" href="#">Stats</a>
+              <a class="stat_btn" href="/">Stats</a>
             </div>
           </div>
           <div class="user_match_statistics">
             <div class="user_img">
               <div class="user_avatar">
-                <img src="assets/img/img_28.png" alt="Image" />
+                <img src="assets/img/img_28.png" alt="AnImage" />
               </div>
               <div class="user_name">
                 <h6>Celrate</h6>
@@ -1383,7 +1383,7 @@
               <ul>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_22.png" alt="Image" />
+                    <img src="assets/img/img_22.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>10</p>
@@ -1391,7 +1391,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_23.png" alt="Image" />
+                    <img src="assets/img/img_23.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>8</p>
@@ -1399,7 +1399,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_24.png" alt="Image" />
+                    <img src="assets/img/img_24.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>1</p>
@@ -1407,7 +1407,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_25.png" alt="Image" />
+                    <img src="assets/img/img_25.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>3</p>
@@ -1415,7 +1415,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_26.png" alt="Image" />
+                    <img src="assets/img/img_26.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>2</p>
@@ -1423,7 +1423,7 @@
                 </li>
                 <li>
                   <div class="user_stat_list_top">
-                    <img src="assets/img/img_27.png" alt="Image" />
+                    <img src="assets/img/img_27.png" alt="AnImage" />
                   </div>
                   <div class="user_stat_list_bottom">
                     <p>0</p>

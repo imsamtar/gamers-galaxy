@@ -21,7 +21,7 @@
             </div>
             <div class="col-xl-5 offset-xl-2 col-lg-6 col-md-12">
               <div class="hero_banner_btn">
-                <a href="#" class="btn v2"><img
+                <a href="/" class="btn v2"><img
                     src="assets/img/btn_img.png"
                     alt="AnImage" /></a>
               </div>
@@ -60,7 +60,7 @@
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <a
-                    href="#"
+                    href="/"
                     class="match_stat_wrap"
                     style="background-image: url(assets/img/img_1.png);">
                     <div class="match-heading">
@@ -94,7 +94,7 @@
                 </div>
                 <div class="swiper-slide">
                   <a
-                    href="#"
+                    href="/"
                     class="match_stat_wrap"
                     style="background-image: url(assets/img/img_2.png);">
                     <div class="match-heading">
@@ -128,7 +128,7 @@
                 </div>
                 <div class="swiper-slide">
                   <a
-                    href="#"
+                    href="/"
                     class="match_stat_wrap"
                     style="background-image: url(assets/img/img_3.png);">
                     <div class="match-heading">
@@ -162,7 +162,7 @@
                 </div>
                 <div class="swiper-slide">
                   <a
-                    href="#"
+                    href="/"
                     class="match_stat_wrap"
                     style="background-image: url(assets/img/img_4.png);">
                     <div class="match-heading">
@@ -196,7 +196,7 @@
                 </div>
                 <div class="swiper-slide">
                   <a
-                    href="#"
+                    href="/"
                     class="match_stat_wrap"
                     style="background-image: url(assets/img/img_5.png);">
                     <div class="match-heading">
@@ -230,163 +230,6 @@
                 </div>
               </div>
             </div>
-            <!--  <div class="hero_slider owl-carousel">
-                          <div class="item">
-                              <div class="match_stat_wrap" style="background-image: url(assets/img/img_1.png);">
-                                  <div class="match-heading">
-                                      <div class="team_logo">
-                                          <img src="assets/img/user_1.png" alt="AnImage">
-                                      </div>
-                                      <div class="match_time">
-                                          <div class="watch_icon">
-                                              <img src="assets/img/watch.png" alt="AnImage">
-                                          </div>
-                                          <span>23:45</span>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Score</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <h5>23:45</h5>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Stats</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <img src="assets/img/stat_img.png" alt="AnImage">
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="item">
-                              <div class="match_stat_wrap" style="background-image: url(assets/img/img_2.png);">
-                                  <div class="match-heading">
-                                      <div class="team_logo">
-                                          <img src="assets/img/user_2.png" alt="AnImage">
-                                      </div>
-                                      <div class="match_time">
-                                          <div class="watch_icon">
-                                              <img src="assets/img/watch.png" alt="AnImage">
-                                          </div>
-                                          <span>23:45</span>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Score</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <h5>23:45</h5>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Stats</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <img src="assets/img/stat_img.png" alt="AnImage">
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="item">
-                              <div class="match_stat_wrap" style="background-image: url(assets/img/img_3.png);">
-                                  <div class="match-heading">
-                                      <div class="team_logo">
-                                          <img src="assets/img/user_3.png" alt="AnImage">
-                                      </div>
-                                      <div class="match_time">
-                                          <div class="watch_icon">
-                                              <img src="assets/img/watch.png" alt="AnImage">
-                                          </div>
-                                          <span>23:45</span>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Score</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <h5>23:45</h5>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Stats</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <img src="assets/img/stat_img.png" alt="AnImage">
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="item">
-                              <div class="match_stat_wrap" style="background-image: url(assets/img/img_4.png);">
-                                  <div class="match-heading">
-                                      <div class="team_logo">
-                                          <img src="assets/img/user_4.png" alt="AnImage">
-                                      </div>
-                                      <div class="match_time">
-                                          <div class="watch_icon">
-                                              <img src="assets/img/watch.png" alt="AnImage">
-                                          </div>
-                                          <span>23:45</span>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Score</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <h5>23:45</h5>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Stats</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <img src="assets/img/stat_img.png" alt="AnImage">
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="item">
-                              <div class="match_stat_wrap" style="background-image: url(assets/img/img_5.png);">
-                                  <div class="match-heading">
-                                      <div class="team_logo">
-                                          <img src="assets/img/user_5.png" alt="AnImage">
-                                      </div>
-                                      <div class="match_time">
-                                          <div class="watch_icon">
-                                              <img src="assets/img/watch.png" alt="AnImage">
-                                          </div>
-                                          <span>23:45</span>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Score</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <h5>23:45</h5>
-                                      </div>
-                                  </div>
-                                  <div class="match_stat">
-                                      <div class="match_stat_left">
-                                          <h6>Stats</h6>
-                                      </div>
-                                      <div class="match_stat_right">
-                                          <img src="assets/img/stat_img.png" alt="AnImage">
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div> -->
           </div>
         </div>
       </div>
@@ -426,7 +269,7 @@
                     </div>
                   </div>
                   <div class="live_item-info">
-                    <a href="#">BOOM Esports vs NEW Esports, ONE Esports Dota 2
+                    <a href="/">BOOM Esports vs NEW Esports, ONE Esports Dota 2
                       SEA League, bo2, game 2</a>
                   </div>
                 </div>
@@ -441,7 +284,7 @@
                     </div>
                   </div>
                   <div class="live_item-info">
-                    <a href="#">fnatic vs NaVi | inferno | ELEAGUE Major Boston
+                    <a href="/">fnatic vs NaVi | inferno | ELEAGUE Major Boston
                       2018</a>
                   </div>
                 </div>
@@ -456,7 +299,7 @@
                     </div>
                   </div>
                   <div class="live_item-info">
-                    <a href="#">BOOM Esports vs NEW Esports, ONE Esports Dota 2
+                    <a href="/">BOOM Esports vs NEW Esports, ONE Esports Dota 2
                       SEA League, bo2, game 2</a>
                   </div>
                 </div>
@@ -478,7 +321,7 @@
             <div class="col-md-12">
               <div class="news_item">
                 <div class="news_title">
-                  <a href="#">What’s new in the Valorant 1.03 patch?</a>
+                  <a href="/">What’s new in the Valorant 1.03 patch?</a>
                 </div>
                 <div class="news_meta_info">
                   <div class="news_date">
@@ -492,7 +335,7 @@
               </div>
               <div class="news_item">
                 <div class="news_title">
-                  <a href="#">Hiko reveals pro Valorant Agent tier list</a>
+                  <a href="/">Hiko reveals pro Valorant Agent tier list</a>
                 </div>
                 <div class="news_meta_info">
                   <div class="news_date">
@@ -506,7 +349,7 @@
               </div>
               <div class="news_item">
                 <div class="news_title">
-                  <a href="#">Riot to remove frustrating daily mission after
+                  <a href="/">Riot to remove frustrating daily mission after
                     community backlash</a>
                 </div>
                 <div class="news_meta_info">

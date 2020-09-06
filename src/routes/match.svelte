@@ -64,7 +64,7 @@
               </div>
               <div class="promo_box">
                 <div class="point_box_left">
-                  <a href="#" class="team_a_name">
+                  <a href="/" class="team_a_name">
                     <img src="assets/img/img_50.png" alt="AnImage" />
                     <p>Singularity</p>
                   </a>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="point_box_center">
                   <div class="match_stats">
-                    <a class="stat_btn" href="#">Stats</a>
+                    <a class="stat_btn" href="/">Stats</a>
                   </div>
                   <div class="match-points">
                     (<span class="text_yel">6</span>:<span
@@ -86,7 +86,7 @@
                   <div class="team_b_point">
                     <span class="text_green">16</span>
                   </div>
-                  <a href="#" class="team_b_name">
+                  <a href="/" class="team_b_name">
                     <img src="assets/img/img_51.png" alt="AnImage" />
                     <p>PACT</p>
                   </a>
@@ -99,7 +99,7 @@
               </div>
               <div class="promo_box">
                 <div class="point_box_left">
-                  <a href="#" class="team_a_name">
+                  <a href="/" class="team_a_name">
                     <img src="assets/img/img_50.png" alt="AnImage" />
                     <p>Singularity</p>
                   </a>
@@ -109,7 +109,7 @@
                 </div>
                 <div class="point_box_center">
                   <div class="match_stats">
-                    <a class="stat_btn" href="#">Stats</a>
+                    <a class="stat_btn" href="/">Stats</a>
                   </div>
                   <div class="match-points">
                     (<span class="text_yel">7</span>:<span
@@ -121,7 +121,7 @@
                   <div class="team_b_point">
                     <span class="text_green">16</span>
                   </div>
-                  <a href="#" class="team_b_name">
+                  <a href="/" class="team_b_name">
                     <img src="assets/img/img_51.png" alt="AnImage" />
                     <p>PACT</p>
                   </a>
@@ -134,7 +134,7 @@
               </div>
               <div class="promo_box">
                 <div class="point_box_left">
-                  <a href="#" class="team_a_name">
+                  <a href="/" class="team_a_name">
                     <img src="assets/img/img_50.png" alt="AnImage" />
                     <p>Singularity</p>
                   </a>
@@ -144,7 +144,7 @@
                 </div>
                 <div class="point_box_center">
                   <div class="match_stats">
-                    <a class="stat_btn" href="#">Stats</a>
+                    <a class="stat_btn" href="/">Stats</a>
                   </div>
                   <div class="match-points">
                     (<span class="text_yel">7</span>:<span
@@ -156,7 +156,7 @@
                   <div class="team_b_point">
                     <span class="text_green">16</span>
                   </div>
-                  <a href="#" class="team_b_name">
+                  <a href="/" class="team_b_name">
                     <img src="assets/img/img_51.png" alt="AnImage" />
                     <p>PACT</p>
                   </a>
@@ -171,7 +171,7 @@
               <h2>Rewatch</h2>
             </div>
           </div>
-          <div class="subheader"><a href="#">GOTV Demo</a></div>
+          <div class="subheader"><a href="/">GOTV Demo</a></div>
           <div class="min_video_player">
             <div class="video">
               <img src="assets/img/img_53.png" alt="AnImage" />
@@ -230,7 +230,7 @@
     <div class="swiper-wrapper">
       <!-- Slides -->
       <div class="swiper-slide">
-        <a href="#">
+        <a href="/">
           <p class="slider_text">
             M1 | darko - 4 USP-S kills (2 HS) on the bombsite B defense (pistol
             round)
@@ -239,7 +239,7 @@
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="#">
+        <a href="/">
           <p class="slider_text">
             M1 | darko - 4 USP-S kills (2 HS) on the bombsite B defense (pistol
             round)
@@ -248,7 +248,7 @@
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="#">
+        <a href="/">
           <p class="slider_text">
             M1 | darko - 4 USP-S kills (2 HS) on the bombsite B defense (pistol
             round)
@@ -257,7 +257,7 @@
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="#">
+        <a href="/">
           <p class="slider_text">
             M1 | darko - 4 USP-S kills (2 HS) on the bombsite B defense (pistol
             round)
@@ -266,7 +266,7 @@
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="#">
+        <a href="/">
           <p class="slider_text">
             M1 | darko - 4 USP-S kills (2 HS) on the bombsite B defense (pistol
             round)
@@ -476,7 +476,7 @@
             <div class="row w-100 align-items-center no-gutters">
               <div class="col-lg-5 col-md-5 col-6">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -532,7 +532,7 @@
             <div class="row w-100 align-items-center no-gutters">
               <div class="col-lg-5 col-md-5 col-6">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_2.png" alt="AnImage" />
                     </div>
@@ -588,7 +588,7 @@
             <div class="row w-100 align-items-center no-gutters">
               <div class="col-lg-5 col-md-5 col-6">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -644,7 +644,7 @@
             <div class="row w-100 align-items-center no-gutters">
               <div class="col-lg-5 col-md-5 col-6">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -700,7 +700,7 @@
             <div class="row w-100 align-items-center no-gutters">
               <div class="col-lg-5 col-md-5 col-6">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -852,7 +852,7 @@
                 class="col-xl-5 col-lg-5 col-md-5 col-6 order-xl-2 order-lg-1
                   order-md-1 order-1">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -912,7 +912,7 @@
                 class="col-xl-5 col-lg-5 col-md-5 col-6 order-xl-2 order-lg-1
                   order-md-1 order-1">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -972,7 +972,7 @@
                 class="col-xl-5 col-lg-5 col-md-5 col-6 order-xl-2 order-lg-1
                   order-md-1 order-1">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -1032,7 +1032,7 @@
                 class="col-xl-5 col-lg-5 col-md-5 col-6 order-xl-2 order-lg-1
                   order-md-1 order-1">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>
@@ -1092,7 +1092,7 @@
                 class="col-xl-5 col-lg-5 col-md-5 col-6 order-xl-2 order-lg-1
                   order-md-1 order-1">
                 <div class="user_img_wrap">
-                  <a href="#" class="user_img">
+                  <a href="/" class="user_img">
                     <div class="user_avatar">
                       <img src="assets/img/player_1.png" alt="AnImage" />
                     </div>

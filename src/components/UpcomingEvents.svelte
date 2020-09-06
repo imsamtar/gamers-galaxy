@@ -15,7 +15,7 @@
               <div class="event_img">
                 <img src="assets/img/img_8.png" alt="Animage" />
               </div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>Fnatic</h6>
                   <span>X 24</span>
@@ -25,7 +25,7 @@
                 </div>
               </a>
               <div class="team_vs"><span>VS</span></div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>NaVi</h6>
                   <span class="text_green">X 56</span>
@@ -35,14 +35,14 @@
                 </div>
               </a>
             </div>
-            <div class="event_btn"><a href="#" class="btn v3">Watch</a></div>
+            <div class="event_btn"><a href="/" class="btn v3">Watch</a></div>
           </div>
           <div class="event_item_wrap">
             <div class="event_team">
               <div class="event_img">
                 <img src="assets/img/img_8.png" alt="Animage" />
               </div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>Fnatic</h6>
                   <span>X 24</span>
@@ -52,7 +52,7 @@
                 </div>
               </a>
               <div class="team_vs"><span>VS</span></div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>NaVi</h6>
                   <span class="text_green">X 56</span>
@@ -62,14 +62,14 @@
                 </div>
               </a>
             </div>
-            <div class="event_btn"><a href="#" class="btn v3">Watch</a></div>
+            <div class="event_btn"><a href="/" class="btn v3">Watch</a></div>
           </div>
           <div class="event_item_wrap">
             <div class="event_team">
               <div class="event_img">
                 <img src="assets/img/img_8.png" alt="Animage" />
               </div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>Fnatic</h6>
                   <span>X 24</span>
@@ -79,7 +79,7 @@
                 </div>
               </a>
               <div class="team_vs"><span>VS</span></div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>NaVi</h6>
                   <span class="text_green">X 56</span>
@@ -89,14 +89,14 @@
                 </div>
               </a>
             </div>
-            <div class="event_btn"><a href="#" class="btn v3">Watch</a></div>
+            <div class="event_btn"><a href="/" class="btn v3">Watch</a></div>
           </div>
           <div class="event_item_wrap">
             <div class="event_team">
               <div class="event_img">
                 <img src="assets/img/img_8.png" alt="Animage" />
               </div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>Fnatic</h6>
                   <span>X 24</span>
@@ -106,7 +106,7 @@
                 </div>
               </a>
               <div class="team_vs"><span>VS</span></div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>NaVi</h6>
                   <span class="text_green">X 56</span>
@@ -116,14 +116,14 @@
                 </div>
               </a>
             </div>
-            <div class="event_btn"><a href="#" class="btn v3">Watch</a></div>
+            <div class="event_btn"><a href="/" class="btn v3">Watch</a></div>
           </div>
           <div class="event_item_wrap">
             <div class="event_team">
               <div class="event_img">
                 <img src="assets/img/img_8.png" alt="Animage" />
               </div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>Fnatic</h6>
                   <span>X 24</span>
@@ -133,7 +133,7 @@
                 </div>
               </a>
               <div class="team_vs"><span>VS</span></div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>NaVi</h6>
                   <span class="text_green">X 56</span>
@@ -143,14 +143,14 @@
                 </div>
               </a>
             </div>
-            <div class="event_btn"><a href="#" class="btn v3">Watch</a></div>
+            <div class="event_btn"><a href="/" class="btn v3">Watch</a></div>
           </div>
           <div class="event_item_wrap">
             <div class="event_team">
               <div class="event_img">
                 <img src="assets/img/img_8.png" alt="Animage" />
               </div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>Fnatic</h6>
                   <span>X 24</span>
@@ -160,7 +160,7 @@
                 </div>
               </a>
               <div class="team_vs"><span>VS</span></div>
-              <a href="#" class="team_info">
+              <a href="/" class="team_info">
                 <div class="team_name">
                   <h6>NaVi</h6>
                   <span class="text_green">X 56</span>
@@ -170,7 +170,7 @@
                 </div>
               </a>
             </div>
-            <div class="event_btn"><a href="#" class="btn v3">Watch</a></div>
+            <div class="event_btn"><a href="/" class="btn v3">Watch</a></div>
           </div>
         </div>
       </div>
