@@ -2,10 +2,10 @@
   import SwiperSetup from "../components/Swipers/Setup.svelte";
   import Teams from "../components/Match/Teams.svelte";
   import MatchMaps from "../components/Match/Map/Map.svelte";
-  import MatchSlider from "../components/Match/Slider.svelte";
+  import MatchSlider from "../components/Match/Slider/Slider.svelte";
   import VideoPlayer from "../components/Match/VideoPlayer.svelte";
-  import SimpleSection from "../components/Match/SimpleSection.svelte";
-  import MatchStats from "../components/Match/MatchStats.svelte";
+  import Points from "../components/Match/Points/Points.svelte";
+  import MatchStats from "../components/Match/Stats/Stats.svelte";
 </script>
 
 <svelte:head>
@@ -21,5 +21,5 @@
 </div>
 <MatchSlider />
 <VideoPlayer />
-<SimpleSection />
+<Points />
 <MatchStats />
