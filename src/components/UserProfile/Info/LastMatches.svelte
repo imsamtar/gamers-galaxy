@@ -25,7 +25,7 @@
   </ul>
   <div class="tab-content sec_tab_content">
     {#each tabs as tab, index}
-      <Tab name={tab} {index} />
+      <Tab name="Celrate" {index} />
     {/each}
   </div>
 </div>
