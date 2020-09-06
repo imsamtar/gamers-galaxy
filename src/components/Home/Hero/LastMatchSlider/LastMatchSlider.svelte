@@ -1,50 +1,18 @@
 <script>
   import Match from "./Match.svelte";
   import Heading from "./Heading.svelte";
-
-  let matches = [
-    {
-      href: "/",
-      bg: "assets/img/img_1.png",
-      logoImg: "assets/img/user_1.png",
-      statImg: "assets/img/stat_img.png",
-      time: "23:45",
-      score: "23:45",
-    },
-    {
-      href: "/",
-      bg: "assets/img/img_2.png",
-      logoImg: "assets/img/user_2.png",
-      statImg: "assets/img/stat_img.png",
-      time: "23:45",
-      score: "23:45",
-    },
-    {
-      href: "/",
-      bg: "assets/img/img_3.png",
-      logoImg: "assets/img/user_3.png",
-      statImg: "assets/img/stat_img.png",
-      time: "23:45",
-      score: "23:45",
-    },
-    {
-      href: "/",
-      bg: "assets/img/img_4.png",
-      logoImg: "assets/img/user_4.png",
-      statImg: "assets/img/stat_img.png",
-      time: "23:45",
-      score: "23:45",
-    },
-    {
-      href: "/",
-      bg: "assets/img/img_5.png",
-      logoImg: "assets/img/user_5.png",
-      statImg: "assets/img/stat_img.png",
-      time: "23:45",
-      score: "23:45",
-    },
-  ];
+  import matches from "./matches";
 </script>
+
+<style>
+  /* .hero_slider_wrap .container.v2 {
+    margin-right: 0;
+  } */
+
+  .hero_slider.swiper-container {
+    padding: 20px 0 48px;
+  }
+</style>
 
 <div class="hero_slider_wrap">
   <Heading />

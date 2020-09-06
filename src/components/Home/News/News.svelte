@@ -17,6 +17,12 @@
   ];
 </script>
 
+<style>
+  .live_slider {
+    padding-bottom: 30px;
+  }
+</style>
+
 <section class="news_section">
   <div class="container">
     <div class="row">
