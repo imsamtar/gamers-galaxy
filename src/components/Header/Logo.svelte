@@ -1,3 +1,11 @@
+<style>
+  .navbar-brand {
+    font-size: inherit;
+    line-height: inherit;
+    white-space: nowrap;
+  }
+</style>
+
 <div
   class="col-xl-4 col-lg-3 col-md-8 col-8 order-xl-1 order-lg-1 order-md-2
     order-2">

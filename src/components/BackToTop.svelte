@@ -19,7 +19,22 @@
 
 <style>
   .back-to-top {
+    font-size: 24px;
+    width: 45px;
+    height: 45px;
+    line-height: 42px;
+    text-align: center;
+    color: #4de2c1;
     display: block;
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    z-index: 999999999999;
+    border-radius: 50%;
+    background: #13171d;
+  }
+  .back-to-top i {
+    color: #fff;
   }
 </style>
 

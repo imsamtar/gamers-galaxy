@@ -5,6 +5,8 @@
 
   export let segment;
 </script>
+<style>
+</style>
 
 <ul class="main-menu">
   <NavLink active={segment == undefined} href="/">Home</NavLink>

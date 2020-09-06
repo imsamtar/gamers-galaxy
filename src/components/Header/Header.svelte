@@ -15,6 +15,33 @@
   }
 </script>
 
+<style>
+  /* Header bar area Start */
+
+  .header-bar-area {
+    top: 0;
+    left: 0;
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    background: #2d325a;
+    padding: 10px 0;
+    transition: 0.4s;
+    box-shadow: 0 7px 23px rgba(0, 0, 0, 0.2);
+  }
+  /*sticky START CSS*/
+
+  .header-bar-area.sticky {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+    -webkit-box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 20px 0 rgba(0, 0, 0, 0.1);
+  }
+</style>
+
 <svelte:window bind:scrollY />
 
 <header class="header-bar-area position-fixed" class:sticky>
