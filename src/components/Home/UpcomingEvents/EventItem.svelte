@@ -13,7 +13,7 @@
         <h6>{firstTeam.fname}</h6>
         <span>{firstTeam.lname}</span>
       </div>
-      <div class="team_logo"><img src={firstTeam.logoImg} alt="AnImage" /></div>
+      <div class="team_logo"><img src={firstTeam.logo} alt="AnImage" /></div>
     </a>
     <div class="team_vs"><span>VS</span></div>
     <a href="/" class="team_info">
