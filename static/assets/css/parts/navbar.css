@@ -1,0 +1,9 @@
+/* Navbar */
+
+.main-menu .nav-item {
+    margin: 0 22px;
+}
+
+.main-menu .nav-item:last-child {
+    margin-right: 0;
+}

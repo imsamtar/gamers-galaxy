@@ -1,0 +1,14 @@
+/*--------------------------------
+            Footer CSS
+---------------------------------*/
+
+.footer_wrap {
+    background: #1E213C;
+    padding: 35px 0;
+    text-align: center;
+}
+
+.footer_link li {
+    display: inline-block;
+    margin: 0 35px;
+}

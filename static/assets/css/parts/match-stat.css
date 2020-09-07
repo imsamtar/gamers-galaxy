@@ -1,0 +1,77 @@
+/*--------------------------------
+            Match stat  CSS
+---------------------------------*/
+
+.promo_box {
+    display: flex;
+    justify-content: space-between;
+    background: #2D325A;
+    align-items: center;
+    padding: 0 40px 15px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.match_box {
+    margin-bottom: 15px;
+}
+
+.match_box_title {
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 8px;
+}
+
+.match_box_title p {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.promo_box .team_a_name img,
+.promo_box .team_b_name img {
+    max-width: 45px;
+}
+
+.promo_box .team_a_name p,
+.promo_box .team_b_name p {
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+.promo_box .team_a_point span,
+.promo_box .team_b_point span {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.map_box {
+    background: #2D325A;
+    padding: 35px 30px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.map_box p {
+    font-size: 14px;
+    opacity: 0.8;
+    line-height: 22px;
+}
+
+.promo_box .point_box_center .match_stats a.stat_btn {
+    color: #fff;
+    margin-top: 0;
+    padding: 4px 12px 4px;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.promo_box .point_box_left,
+.promo_box .point_box_right {
+    width: 30%;
+    margin-top: 34px;
+}
+
+.promo_box .point_box_center span {
+    font-weight: 600;
+}

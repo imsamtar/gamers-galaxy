@@ -9,6 +9,9 @@
 </script>
 
 <style>
+  .page_wrapper {
+    position: relative;
+  }
 </style>
 
 <Preloader {segment} />

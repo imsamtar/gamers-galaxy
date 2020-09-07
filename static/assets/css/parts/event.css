@@ -1,0 +1,100 @@
+/*--------------------------------
+            Event CSS
+---------------------------------*/
+
+.upcoming_events_wrap {
+    padding: 30px 0 120px;
+}
+
+.event_item_wrap {
+    background-size: contain;
+    background-position: top center;
+    padding: 24px;
+    margin: 0 30px 20px 0;
+    position: relative;
+    background: #2D325A;
+    border-radius: 25px;
+}
+
+.event_item_wrap:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 310px;
+    height: 100%;
+    content: "";
+    background-image: url(../../img/bg_7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    z-index: 0;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.event_item_wrap:last-child {
+    margin-bottom: 0;
+}
+
+.event_item_wrap,
+.event_team {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.event_btn {
+    margin-left: 80px;
+}
+
+.team_info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+}
+
+.team_name h6 {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 4px;
+}
+
+.team_name {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.team_name span {
+    font-size: 14px;
+    color: #ff3e44;
+    font-weight: 600;
+}
+
+.team_vs {
+    background: #242848;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 0 40px;
+}
+
+.team_vs span {
+    font-size: 18px;
+    line-height: 65px;
+}
+
+.event_img {
+    margin-right: 30px;
+}
+
+.event_btn .btn.v3 {
+    margin-left: 30px;
+}
+
+.events_list-wrap {
+    height: 383px;
+    overflow-y: auto;
+}

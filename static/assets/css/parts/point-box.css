@@ -1,0 +1,115 @@
+/*----------------------*/
+
+.point_box {
+    background: #2D325A;
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 15%;
+    position: relative;
+    border-radius: 10px;
+}
+
+.point_box.v1 {
+    margin: 35px 0 40px;
+}
+
+.point_box:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "";
+    background-image: url(../../img/flag.png);
+    width: 180px;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.point_box:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: "";
+    background-image: url(../../img/flag_2.png);
+    width: 180px;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.point_box.v2 {
+    background: transparent;
+    align-items: center;
+}
+
+.point_box.v2:before,
+.point_box.v2:after {
+    display: none;
+}
+
+.point_box_left,
+.point_box_right {
+    width: 25%;
+}
+
+.point_box_center {
+    width: 50%;
+}
+
+.point_box_left,
+.point_box_right {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    z-index: 99;
+}
+
+.point_box_center {
+    text-align: center;
+}
+
+.point_box_center h2 {
+    line-height: 30px;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.point_box_center h4 {
+    line-height: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.point_box_center p,
+.point_box_center span {
+    font-size: 14px;
+    line-height: 1;
+}
+
+.point_box_center span {
+    color: #9888ff;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.team_a_point span,
+.team_b_point span {
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.team_a_name p,
+.team_b_name p {
+    font-size: 22px;
+    margin: 10px 0 0;
+    font-weight: 600;
+    color: #bdb3ff;
+}

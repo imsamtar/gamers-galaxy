@@ -253,12 +253,12 @@
   }
 
   .proloader {
-    transition: opacity 500ms, z-index 600ms 0ms;
+    transition: none;
   }
   .proloader.hidden {
     opacity: 0;
     z-index: -1000;
-    transform: all 0ms;
+    transition: opacity 500ms, z-index 600ms 0ms;
   }
 </style>
 
