@@ -1,94 +1,21 @@
 <script>
   import EventItem from "./EventItem.svelte";
+  import eventItems from "./event_items";
 
   const heading = "Upcoming";
 
-  const eventItems = [
-    {
-      img: "assets/img/img_8.png",
-      firstTeam: {
-        fname: "Fnatic",
-        lname: "X 24",
-        logo: "assets/img/img_9.png",
-      },
-      secondTeam: {
-        fname: "NaVi",
-        lname: "X 56",
-        logo: "assets/img/img_10.png",
-      },
-      watchLink: "/",
-    },
-    {
-      img: "assets/img/img_8.png",
-      firstTeam: {
-        fname: "Fnatic",
-        lname: "X 24",
-        logo: "assets/img/img_9.png",
-      },
-      secondTeam: {
-        fname: "NaVi",
-        lname: "X 56",
-        logo: "assets/img/img_10.png",
-      },
-      watchLink: "/",
-    },
-    {
-      img: "assets/img/img_8.png",
-      firstTeam: {
-        fname: "Fnatic",
-        lname: "X 24",
-        logo: "assets/img/img_9.png",
-      },
-      secondTeam: {
-        fname: "NaVi",
-        lname: "X 56",
-        logo: "assets/img/img_10.png",
-      },
-      watchLink: "/",
-    },
-    {
-      img: "assets/img/img_8.png",
-      firstTeam: {
-        fname: "Fnatic",
-        lname: "X 24",
-        logo: "assets/img/img_9.png",
-      },
-      secondTeam: {
-        fname: "NaVi",
-        lname: "X 56",
-        logo: "assets/img/img_10.png",
-      },
-      watchLink: "/",
-    },
-    {
-      img: "assets/img/img_8.png",
-      firstTeam: {
-        fname: "Fnatic",
-        lname: "X 24",
-        logo: "assets/img/img_9.png",
-      },
-      secondTeam: {
-        fname: "NaVi",
-        lname: "X 56",
-        logo: "assets/img/img_10.png",
-      },
-      watchLink: "/",
-    },
-    {
-      img: "assets/img/img_8.png",
-      firstTeam: {
-        fname: "Fnatic",
-        lname: "X 24",
-        logo: "assets/img/img_9.png",
-      },
-      secondTeam: {
-        fname: "NaVi",
-        lname: "X 56",
-        logo: "assets/img/img_10.png",
-      },
-      watchLink: "/",
-    },
-  ];
+  // NiceScroll
+  let eventsListWrap;
+  $: if (eventsListWrap) {
+    setTimeout(function () {
+      window.$(".events_list-wrap").niceScroll({
+        cursorcolor: "rgb(105, 82, 253)",
+        background: "rgb(44, 49, 89)",
+        cursorborder: "0px",
+        autohidemode: "leave",
+      });
+    }, 50);
+  }
 </script>
 
 <section class="upcoming_events_wrap">
@@ -102,7 +29,7 @@
         </div>
       </div>
       <div class="col-md-12">
-        <div class="events_list-wrap">
+        <div class="events_list-wrap" bind:this={eventsListWrap}>
           {#each eventItems as eventItem}
             <EventItem {...eventItem} />
           {/each}
@@ -111,4 +38,3 @@
     </div>
   </div>
 </section>
-<!-- upcoming events ends -->
