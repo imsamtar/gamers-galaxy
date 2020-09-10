@@ -1,7 +1,8 @@
 {
-    "name": "gamer-galaxy",
-    "description": "gamer-galaxy",
-    "version": "0.0.1",
+    "name": "gamers-galaxy",
+    "description": "Responsive eSports gaming website UI built with Svelte and Sapper",
+    "version": "1.0.0",
+    "private": true,
     "scripts": {
         "dev": "sapper dev",
         "build": "sapper build --legacy",
